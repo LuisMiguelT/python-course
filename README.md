@@ -1,2 +1,2 @@
 # python-course
-Cuadernillos de Jupyter para aprender Python
+Cuadernillos de Jupyter para aprender Python 3. 
